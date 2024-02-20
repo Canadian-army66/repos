@@ -1,0 +1,14 @@
+C:\Users\ChristianKohnen\source\repos\HelloWorld_KohnenChristian\bin\Debug\net6.0\HelloWorld_KohnenChristian.exe
+C:\Users\ChristianKohnen\source\repos\HelloWorld_KohnenChristian\bin\Debug\net6.0\HelloWorld_KohnenChristian.deps.json
+C:\Users\ChristianKohnen\source\repos\HelloWorld_KohnenChristian\bin\Debug\net6.0\HelloWorld_KohnenChristian.runtimeconfig.json
+C:\Users\ChristianKohnen\source\repos\HelloWorld_KohnenChristian\bin\Debug\net6.0\HelloWorld_KohnenChristian.dll
+C:\Users\ChristianKohnen\source\repos\HelloWorld_KohnenChristian\bin\Debug\net6.0\HelloWorld_KohnenChristian.pdb
+C:\Users\ChristianKohnen\source\repos\HelloWorld_KohnenChristian\obj\Debug\net6.0\HelloWorld_KohnenChristian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChristianKohnen\source\repos\HelloWorld_KohnenChristian\obj\Debug\net6.0\HelloWorld_KohnenChristian.AssemblyInfoInputs.cache
+C:\Users\ChristianKohnen\source\repos\HelloWorld_KohnenChristian\obj\Debug\net6.0\HelloWorld_KohnenChristian.AssemblyInfo.cs
+C:\Users\ChristianKohnen\source\repos\HelloWorld_KohnenChristian\obj\Debug\net6.0\HelloWorld_KohnenChristian.csproj.CoreCompileInputs.cache
+C:\Users\ChristianKohnen\source\repos\HelloWorld_KohnenChristian\obj\Debug\net6.0\HelloWorld_KohnenChristian.dll
+C:\Users\ChristianKohnen\source\repos\HelloWorld_KohnenChristian\obj\Debug\net6.0\refint\HelloWorld_KohnenChristian.dll
+C:\Users\ChristianKohnen\source\repos\HelloWorld_KohnenChristian\obj\Debug\net6.0\HelloWorld_KohnenChristian.pdb
+C:\Users\ChristianKohnen\source\repos\HelloWorld_KohnenChristian\obj\Debug\net6.0\HelloWorld_KohnenChristian.genruntimeconfig.cache
+C:\Users\ChristianKohnen\source\repos\HelloWorld_KohnenChristian\obj\Debug\net6.0\ref\HelloWorld_KohnenChristian.dll
