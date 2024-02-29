@@ -32,8 +32,8 @@
             bool isDoubleGreater = doubleMultiply > doubleAddition; //ir finds which is greater and if the statement is true
             Console.WriteLine($"{doubleMultiply} is greater than {doubleAddition}, {isDoubleGreater}"); //types that one value os greater than the other and that iot it indeed true
 
-            decimal decimalMultiply = 3 * 49; //declares multiplied intigers
-            decimal decimalAddition = 3 + 50; //declares added intigers
+            decimal decimalMultiply = 3.35 * 49.2; //declares multiplied intigers
+            decimal decimalAddition = 3.48 + 50.8; //declares added intigers
             Console.WriteLine($"The max of {decimalMultiply} and of {decimalAddition} is {Math.Max(decimalMultiply, decimalAddition)} " +
                 $"and the minimum of the two is {Math.Min(decimalMultiply, decimalAddition)}"); //it finds the min and max of the two numbers
             bool isDecGreater = decimalMultiply > decimalAddition; //ir finds which is greater and if the statement is true
