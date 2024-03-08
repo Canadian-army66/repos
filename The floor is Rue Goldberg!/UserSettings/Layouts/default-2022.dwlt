@@ -775,11 +775,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.27223793, y: 0.06257487, z: -0.017782861, w: -0.9600691}
     speed: 2
-    m_Value: {x: -0.27078697, y: 0.06259903, z: -0.017688276, w: -0.96043897}
+    m_Value: {x: -0.27223793, y: 0.06257487, z: -0.017782861, w: -0.9600691}
   m_Size:
     m_Target: 4.225068
     speed: 2
-    m_Value: 4.424155
+    m_Value: 4.225068
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1059,9 +1059,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 6a660000
-    m_LastClickedID: 26218
-    m_ExpandedIDs: 000000006a66000000ca9a3b
+    m_SelectedIDs: ae650000
+    m_LastClickedID: 26030
+    m_ExpandedIDs: 00000000ae65000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1089,7 +1089,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000006a660000
+    m_ExpandedIDs: 00000000ae650000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1238,7 +1238,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c262c1329a02fa49b5cb4c297106f3f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_MinSize: {x: 133, y: 30}
+  m_MinSize: {x: 129, y: 28}
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: ProBuilder
