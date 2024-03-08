@@ -1,0 +1,14 @@
+C:\Users\ChristianKohnen\source\repos\Conditionals_Kohnen_Christian\obj\Debug\net6.0\Conditionals_Kohnen_Christian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChristianKohnen\source\repos\Conditionals_Kohnen_Christian\obj\Debug\net6.0\Conditionals_Kohnen_Christian.AssemblyInfoInputs.cache
+C:\Users\ChristianKohnen\source\repos\Conditionals_Kohnen_Christian\obj\Debug\net6.0\Conditionals_Kohnen_Christian.AssemblyInfo.cs
+C:\Users\ChristianKohnen\source\repos\Conditionals_Kohnen_Christian\obj\Debug\net6.0\Conditionals_Kohnen_Christian.csproj.CoreCompileInputs.cache
+C:\Users\ChristianKohnen\source\repos\Conditionals_Kohnen_Christian\bin\Debug\net6.0\Conditionals_Kohnen_Christian.exe
+C:\Users\ChristianKohnen\source\repos\Conditionals_Kohnen_Christian\bin\Debug\net6.0\Conditionals_Kohnen_Christian.deps.json
+C:\Users\ChristianKohnen\source\repos\Conditionals_Kohnen_Christian\bin\Debug\net6.0\Conditionals_Kohnen_Christian.runtimeconfig.json
+C:\Users\ChristianKohnen\source\repos\Conditionals_Kohnen_Christian\bin\Debug\net6.0\Conditionals_Kohnen_Christian.dll
+C:\Users\ChristianKohnen\source\repos\Conditionals_Kohnen_Christian\bin\Debug\net6.0\Conditionals_Kohnen_Christian.pdb
+C:\Users\ChristianKohnen\source\repos\Conditionals_Kohnen_Christian\obj\Debug\net6.0\Conditionals_Kohnen_Christian.dll
+C:\Users\ChristianKohnen\source\repos\Conditionals_Kohnen_Christian\obj\Debug\net6.0\refint\Conditionals_Kohnen_Christian.dll
+C:\Users\ChristianKohnen\source\repos\Conditionals_Kohnen_Christian\obj\Debug\net6.0\Conditionals_Kohnen_Christian.pdb
+C:\Users\ChristianKohnen\source\repos\Conditionals_Kohnen_Christian\obj\Debug\net6.0\Conditionals_Kohnen_Christian.genruntimeconfig.cache
+C:\Users\ChristianKohnen\source\repos\Conditionals_Kohnen_Christian\obj\Debug\net6.0\ref\Conditionals_Kohnen_Christian.dll
