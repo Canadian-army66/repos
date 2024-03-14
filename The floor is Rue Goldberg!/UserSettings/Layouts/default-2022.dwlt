@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Scene
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -615,9 +615,9 @@ MonoBehaviour:
       floating: 1
       collapsed: 0
       displayed: 1
-      snapOffset: {x: 991, y: 135}
+      snapOffset: {x: -244, y: 135}
       snapOffsetDelta: {x: 0, y: 0}
-      snapCorner: 0
+      snapCorner: 1
       id: UnityEditor.SceneViewCameraOverlay
       index: 0
       layout: 4
@@ -725,9 +725,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 16.124668, y: -17.115498, z: 32.03524}
+    m_Target: {x: -158.56772, y: -133.1222, z: -30.793118}
     speed: 2
-    m_Value: {x: 16.124668, y: -17.115498, z: 32.03524}
+    m_Value: {x: -158.56772, y: -133.1222, z: -30.793118}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -773,13 +773,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.2371103, y: -0.13586935, z: 0.033538204, w: -0.961393}
+    m_Target: {x: -0.054058217, y: 0.84507793, z: -0.08666179, w: -0.5249223}
     speed: 2
-    m_Value: {x: -0.23710047, y: -0.13586372, z: 0.033536814, w: -0.9613531}
+    m_Value: {x: -0.052754104, y: 0.84828556, z: -0.0857064, w: -0.5198877}
   m_Size:
-    m_Target: 65.10804
+    m_Target: 112.67239
     speed: 2
-    m_Value: 65.10804
+    m_Value: 107.82047
   m_Ortho:
     m_Target: 0
     speed: 2
