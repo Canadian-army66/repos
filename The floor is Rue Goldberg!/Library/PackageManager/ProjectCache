@@ -1040,6 +1040,7 @@ m_ResolvedPackages:
     - 5.2.2
     - 6.0.1-pre.1
     - 6.0.1-pre.2
+    - 6.0.1
     compatible:
     - 5.1.0
     - 5.1.1
