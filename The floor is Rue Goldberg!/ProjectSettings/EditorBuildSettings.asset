@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/golberg.unity
+    guid: 964e8ead6c65d894ca28eba8e7d2cc06
   m_configObjects: {}
